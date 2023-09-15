@@ -1,4 +1,5 @@
 [alias]
 build-man = "run --package xtask-build-man --"
 stale-label = "run --package xtask-stale-label --"
-bump-check = "run --package xtask-bump-check --"
+bu
+mp-check = "run --package xtask-bump-check --"
